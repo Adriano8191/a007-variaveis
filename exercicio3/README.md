@@ -18,9 +18,9 @@ let b = 25
 // Aqui faremos uma lógica para trocar os valores
 
 // Depois de trocados, teremos o seguinte resultado:
-console.log("O novo valor de a é", a) // O novo valor de a é 25
+ // O novo valor de a é 25
 console.log("O novo valor de b é", b) // O novo valor de b é 10
-```
+console.log("O novo valor de a é", a)
 
 Crie a lógica que deve ser inserida no código para que os valores de a e b sejam trocados, independente de qual valor essas variáveis assumam inicialmente (ou seja: não basta dizer que `a = 25` e `b = 10` porque se os valores iniciais mudarem, a lógica do seu programa teria que mudar também). 
 
